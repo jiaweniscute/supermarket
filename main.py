@@ -63,4 +63,4 @@ def scrape_data():
 if __name__ == '__main__':
     # upload_to_Gdrive('jwpicture.png','/Users/jiawenng/Desktop/jw_pic.png',password)
     scrape_data()
-    #print_hi()
+
